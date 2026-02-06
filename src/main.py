@@ -1,6 +1,6 @@
 from flet import run, Page
 
-from components.TodoApp import TodoApp
+from components.todo_app import TodoApp
 
 
 def main(page: Page):
